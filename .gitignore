@@ -35,3 +35,6 @@ build/
 *.DotSettings
 *.vshost.*
 /.vs
+/src/.vs/NLog/v15/Server/sqlite3
+/src/.vs/NLog.netfx40/v15/Server/sqlite3
+/src/.vs/NLog.netfx45/v15/Server/sqlite3
